@@ -1,5 +1,8 @@
 # Vue.JS Calculator 
 
+## You can check the calculator here:
+https://codesandbox.io/s/vuejscalculator-d88nj?file=/src/components/Calculator.vue
+
 ## Project setup
 ```
 npm install
